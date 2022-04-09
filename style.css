@@ -1,0 +1,152 @@
+.head{
+    font-size: 32px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 300px;
+    top: 200px;
+}
+span{
+    color: grey;
+    font-weight: 100;
+}
+.flex-container{
+    background-color: white;
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    height:500px ;
+    width: 600px;
+    display:flex;
+    justify-content: space-between;
+
+}
+.flex{
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgb(170, 148, 148);
+    height: 200px;
+    width: 140px;
+    text-align: center;
+    padding: 5px;
+    color: red;
+}
+hr{
+    width:100px;
+    position: relative;
+    left: 24px;
+}
+.clr{
+    color: black;
+}
+.material-icons{
+    color: red;
+    position: absolute;
+    left: 700px;
+    top: 200px;
+}
+a{
+    text-decoration: none;
+    
+}
+
+.list1{
+    position: absolute;
+    left: 730px;
+    top: 203px;
+}
+.flex-paris{
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgb(170, 148, 148);
+    height: 200px;
+    width: 140px;
+    text-align: center;
+    padding: 5px;
+    color: red;
+    position: absolute;
+    left: 600px;
+    top: 300px;
+}
+.back{
+    position: relative;
+    top: 20px;
+    right:60px;
+}
+.add{
+    position: absolute;
+    right: 730px;
+    bottom: 230px;
+}
+p{
+    color: red;
+}
+strike{
+    color: red;
+}
+.diff{
+    color: grey;
+}
+
+.new-list{
+    border: 1px solid red;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    padding: 5px;
+    color: red;
+    border-radius: 10px;
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    z-index: 8;
+  
+}
+.border{
+    border-color: red;
+    border-radius: 5px;
+}
+button{
+    background-color: red;
+    border:none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+  
+}
+.index{
+  position: relative;
+ filter: blur(5px);
+ z-index: 0;
+ 
+}
+.new-item{
+    border: 1px solid red;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    padding: 5px;
+    color: red;
+    border-radius: 10px;
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    z-index: 1;
+  
+}
+.border{
+    border-color: red;
+    border-radius: 5px;
+}
+button{
+    background-color: red;
+    border:none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+} 
+.paris{
+    filter: blur(5px);
+    position: relative;
+    z-index: 0;
+}
