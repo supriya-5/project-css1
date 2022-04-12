@@ -68,10 +68,24 @@ a{
     left: 600px;
     top: 300px;
 }
+.paris-h1{
+    text-align: center;
+}
+.paris-hr1{
+    position: absolute;
+    top: 30px;
+    left: 490px;
+}
+.paris-hr2{
+    position: absolute;
+    top: 30px;
+    left: 778px;
+}
 .back{
     position: relative;
-    top: 20px;
+   bottom: 90px;
     right:60px;
+    color: black;
 }
 .add{
     position: absolute;
